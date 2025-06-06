@@ -1,0 +1,10 @@
+# Gradle files
+/.gradle/
+/build/
+app/build/
+
+# Android Studio
+.idea/
+
+# Others
+local.properties
