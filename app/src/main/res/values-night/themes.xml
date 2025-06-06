@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Vocabulary" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Night theme customization -->
+    </style>
+</resources>

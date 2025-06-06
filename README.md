@@ -17,4 +17,7 @@ A vocabulary learning app for native Turkish speakers who want to learn German. 
 - **Gamification** – Earn achievements or streaks for regular practice.
 - **Cross-Platform Sync** – Synchronize progress and word lists across devices via cloud storage.
 
-Development has not started yet. These ideas serve as a roadmap for future work.
+This repository contains a barebones Android project under the `app/` folder.
+Open the project in Android Studio and press **Run** to launch it on a device or
+emulator. Alternatively, generate the Gradle wrapper JAR with `gradle wrapper`
+and run `./gradlew assembleDebug`.
